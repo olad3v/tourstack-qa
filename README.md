@@ -12,7 +12,6 @@ This repository is used to map the product, document test cases, record test exe
 * `test-cases/` — Defined testing scenarios and expected results.
 * `test-executions/` — Records of test runs and their results.
 * `defects/` — Defects discovered during testing.
-* `evidence/` — Screenshots, recordings, and other supporting evidence.
 * `automation/` — Automated tests added later.
 
 
