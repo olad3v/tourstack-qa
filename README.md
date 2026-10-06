@@ -15,6 +15,4 @@ This repository is used to map the product, document test cases, record test exe
 * `evidence/` — Screenshots, recordings, and other supporting evidence.
 * `automation/` — Automated tests added later.
 
-## Current Focus
 
-Initial QA coverage of the Promoter experience in TourStack.
